@@ -1,2 +1,2 @@
-#MyAlxProject
-This is my first ALX Project
+#MyFirstAlxProject
+This is my first project for ALX
